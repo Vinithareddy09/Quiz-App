@@ -42,4 +42,5 @@ quizData.json → Sample quiz questions.
 ## Notes
 If API integration is unavailable, you can use the local JSON file (quizData.json) for testing.
 The dataset and logic for quiz questions are flexible and can be modified in the source code.
+
 🎯 Feel free to explore, modify, and contribute to this project! 🚀
